@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeezer_tweaker_docs=self.webpackChunkdeezer_tweaker_docs||[]).push([[787],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
