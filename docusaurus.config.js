@@ -21,6 +21,7 @@ const config = {
   organizationName: 'Deezer-Tweaker', // Usually your GitHub org/user name.
   projectName: 'deezer-tweaker.github.io', // Usually your repo name.,
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -75,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Getting started',
           },
           {
             href: 'https://github.com/Deezer-Tweaker/deezer-tweaker',
@@ -106,6 +107,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/Deezer-Tweaker/deezer-tweaker',
+              },
+              {
+                label: 'Community Plugins',
+                href: 'https://github.com/Deezer-Tweaker/community-plugins',
               },
             ],
           },
