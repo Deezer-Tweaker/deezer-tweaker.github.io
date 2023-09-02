@@ -1,4 +1,4 @@
-# Creating your plugin
+# Creating a plugin
 
 Anyone can contribute to the plugins list. You just need a code editor and a GitHub account.
 
